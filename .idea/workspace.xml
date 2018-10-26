@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="500261c8-34bd-4f49-abee-2c84a10e17d7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/Fibonacci/Fibonacci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/GCD/GCD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/armstrongnumber/ArmstrongNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/arrays/FindAverage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/arrays/FindMax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/arrays/FindMin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/arrays/ReversedArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/arrays/ScalarMultiplicationOfMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/bubblesort/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/factorial/Factorial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/palindromenumber/PalindromeNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms and Exercises/primenumber/PrimeNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fibonacci/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/armstrongnumber/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bubblesort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorial/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindromenumber/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primenumber/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Exercises.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Chapter1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GCD/GCD.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +17,7 @@
       <file leaf-file-name="GCD.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GCD/GCD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="68">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -52,7 +29,7 @@
       <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Fibonacci/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
+            <state relative-caret-position="51">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
@@ -70,7 +47,7 @@
       <file leaf-file-name="PalindromeNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/palindromenumber/PalindromeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="442">
               <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
             </state>
           </provider>
@@ -79,7 +56,7 @@
       <file leaf-file-name="Factorial.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/factorial/Factorial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
+            <state relative-caret-position="374">
               <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
             </state>
           </provider>
@@ -88,13 +65,13 @@
       <file leaf-file-name="ArmstrongNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/armstrongnumber/ArmstrongNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
+            <state relative-caret-position="340">
               <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bubblesort/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -103,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindAverage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/arrays/FindAverage.java">
+      <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/insertionsort/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="188">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -124,7 +101,7 @@
       <file leaf-file-name="ScalarMultiplicationOfMatrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arrays/ScalarMultiplicationOfMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="425">
               <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
               <folding>
                 <marker date="1540315857018" expanded="true" signature="1103:1283" ph="{...}" />
@@ -163,6 +140,7 @@
         <option value="$PROJECT_DIR$/src/factorial/Factorial.java" />
         <option value="$PROJECT_DIR$/src/armstrongnumber/ArmstrongNumber.java" />
         <option value="$PROJECT_DIR$/src/bubblesort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/insertionsort/InsertionSort.java" />
       </list>
     </option>
   </component>
@@ -187,9 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,10 +177,19 @@
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="insertionsort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="armstrongnumber.ArmstrongNumber" />
       <module name="Algorithms and Exercises" />
@@ -262,6 +246,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="insertionsort.InsertionSort" />
+      <module name="Algorithms and Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="insertionsort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="palindromenumber.PalindromeNumber" />
       <module name="Algorithms and Exercises" />
@@ -269,17 +264,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="palindromenumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primenumber.PrimeNumber" />
-      <module name="Algorithms and Exercises" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="primenumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,19 +310,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PrimeNumber" />
       <item itemvalue="Application.PalindromeNumber" />
       <item itemvalue="Application.Factorial" />
       <item itemvalue="Application.ArmstrongNumber" />
       <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.InsertionSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -355,15 +339,17 @@
       <workItem from="1540301941307" duration="8839000" />
       <workItem from="1540313544927" duration="2828000" />
       <workItem from="1540393944054" duration="44000" />
-      <workItem from="1540473431654" duration="8154000" />
+      <workItem from="1540473431654" duration="8822000" />
+      <workItem from="1540573281785" duration="4115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19865000" />
+    <option name="totallyTimeSpent" value="24648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -375,24 +361,24 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24509804" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24509804" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12632374" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12783661" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,6 +388,82 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/GCD/GCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fibonacci/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/primenumber/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/palindromenumber/PalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factorial/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/armstrongnumber/ArmstrongNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/FindAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/ReversedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/ScalarMultiplicationOfMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <marker date="1540315857018" expanded="true" signature="1103:1283" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bubblesort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GCD/GCD.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -576,7 +638,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/arrays/ScalarMultiplicationOfMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="425">
           <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
           <folding>
             <marker date="1540315857018" expanded="true" signature="1103:1283" ph="{...}" />
@@ -586,7 +648,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GCD/GCD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="68">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -596,7 +658,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Fibonacci/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
+        <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
@@ -610,21 +672,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/palindromenumber/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="442">
           <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/factorial/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
+        <state relative-caret-position="374">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/armstrongnumber/ArmstrongNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
+        <state relative-caret-position="340">
           <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
         </state>
       </provider>
@@ -633,6 +695,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/insertionsort/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
         </state>
       </provider>
     </entry>
