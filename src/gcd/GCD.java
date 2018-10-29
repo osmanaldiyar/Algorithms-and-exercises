@@ -1,6 +1,5 @@
-package GCD;
+package gcd;
 
-import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
@@ -17,7 +16,7 @@ public class GCD {
             System.out.println("Enter q: ");
             int q = Integer.parseInt(reader2.readLine());
             System.out.println(p + " | " + q);
-            System.out.println("GCD.GCD is: " + gcd(p,q));
+            System.out.println("gcd.gcd is: " + gcd(p,q));
         }catch(Exception e){
 
         }
