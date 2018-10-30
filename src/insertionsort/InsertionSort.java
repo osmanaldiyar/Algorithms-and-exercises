@@ -11,7 +11,7 @@ public class InsertionSort {
 
     }
 
-    public static int[] insertionSort(int arr[]){
+    public static void insertionSort(int arr[]){
 
         int j = 0,k = 1,temp = 0;
 
@@ -28,13 +28,10 @@ public class InsertionSort {
             }
 
         }
+
         for(int i = 0; i < arr.length;i++){
             System.out.print(arr[i]+", ");
         }
-
-
-
-        return arr;
 
     }
 

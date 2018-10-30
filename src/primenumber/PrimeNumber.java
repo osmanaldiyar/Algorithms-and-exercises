@@ -1,7 +1,6 @@
 package primenumber;
 
 public class PrimeNumber {
-
     public static void main(String[] args) {
 
         for(int i = 0; i < 20;i++){
@@ -11,7 +10,7 @@ public class PrimeNumber {
 
     public static boolean isPrime(int n){
 
-        if(n == 0 || n == 1){
+        if(n == 0 | n == 1){
             return false;
         }
 
